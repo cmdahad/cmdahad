@@ -1,9 +1,13 @@
-## Hello 👋 Ahad here, 
+# Hi there 👋 I'm Ahad 
 
-👨‍💻 CS undergrad with a curiosity for how things work — and how to make them better
-🌐 Building full-stack apps that are fast, functional, and user-friendly
-🧩 Love tackling complex problems with clean, efficient code
-🧠 Exploring the intersection of AI and real-world impact
-🚀 On a mission to turn ideas into innovative software solutions
+💻 Full-stack & AI enthusiast  
+🧠 Passionate about solving real-world problems with code  
+🌍 Exploring innovative ways to build better systems  
+🚀 Let's connect and collaborate!
+
+## 📫 Reach me at:
+- 📧 Email: ahadwork01@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/ahad-172794264/
+
 
 
